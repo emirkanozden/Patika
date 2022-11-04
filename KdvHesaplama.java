@@ -18,4 +18,4 @@ public class KdvHesaplama {
         System.out.println("KDV Tutari:"+kdvTutar);
         System.out.println("Kdvli Tutar:"+kdvliTutar);
     }
-}
+}patika
